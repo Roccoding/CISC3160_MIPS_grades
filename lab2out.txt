@@ -1,0 +1,106 @@
+enter the 6 lab scores: 
+3
+3
+3
+3
+3
+3
+enter the 4 writing scores: 
+4
+4
+4
+4
+enter the 3 quiz scores: 
+5
+5
+5
+enter the final score: 
+100
+enter the score for professionalism 
+10
+the final score is: 100.0
+-- program is finished running --
+
+enter the 6 lab scores: 
+2
+3
+2
+1
+4
+error, invalid score, please try again 
+2
+2
+enter the 4 writing scores: 
+3
+1
+4
+5
+error, invalid score, please try again 
+4
+enter the 3 quiz scores: 
+3
+5
+1
+enter the final score: 
+82
+enter the score for professionalism 
+5
+the final score is: 71.38333
+-- program is finished running --
+
+enter the 6 lab scores: 
+0
+1
+2
+3
+4
+error, invalid score, please try again 
+-1
+error, invalid score, please try again 
+3
+4
+error, invalid score, please try again 
+3
+enter the 4 writing scores: 
+0
+5
+error, invalid score, please try again 
+4
+4
+4
+enter the 3 quiz scores: 
+6
+error, invalid score, please try again 
+5
+4
+0
+enter the final score: 
+77
+enter the score for professionalism 
+8
+the final score is: 72.38333
+-- program is finished running --
+
+enter the 6 lab scores: 
+0
+0
+0
+0
+0
+0
+enter the 4 writing scores: 
+0
+0
+0
+0
+enter the 3 quiz scores: 
+0
+0
+0
+enter the final score: 
+0
+enter the score for professionalism 
+0
+the final score is: 0.0
+-- program is finished running --
+
